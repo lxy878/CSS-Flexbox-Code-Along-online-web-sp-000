@@ -19,6 +19,7 @@ main {
   /*flex-wrap: wrap;*/
   flex-flow: column wrap;
   justify-content: center;
+  align-items: center;
 }
 
 footer {
